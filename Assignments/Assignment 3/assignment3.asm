@@ -1,7 +1,7 @@
 ;=========================================================================
 ; Name & Email must be EXACTLY as in Gradescope roster!
 ; Name: Jasmine Lau
-; Email: jlau053@ucr.edu
+; Email: 
 ; 
 ; Assignment name: Assignment 3
 ; Lab section: A021
