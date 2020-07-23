@@ -1,6 +1,6 @@
 ;=================================================
 ; Name: Lau, Jasmine
-; Email:  jlau053@ucr.edu
+; Email:  
 ; 
 ; Lab: lab 1, ex 1
 ; Lab section: A21
