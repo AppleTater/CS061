@@ -6,11 +6,6 @@
 ; Assignment name: Assignment 5
 ; Lab section: A021
 ; TA: Jason Goulding
-; 
-; I hereby certify that I have not received assistance on this assignment,
-; or used code, from ANY outside source other than the instruction team
-; (apart from what was provided in the starter file).
-;
 ;=========================================================================
 ;-------------
 ;Instructions
